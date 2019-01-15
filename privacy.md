@@ -1,8 +1,8 @@
-[“ú–{Œê‚ÌŒÂlî•ñ•ÛŒì•ûj‚ğ“Ç‚İ‚½‚¢ê‡‚Í‚±‚±‚ğƒNƒŠƒbƒN‚µ‚Ä‚­‚¾‚³‚¢](privacy_ja.md)
+ï»¿[æ—¥æœ¬èªã®å€‹äººæƒ…å ±ä¿è­·æ–¹é‡ã‚’èª­ã¿ãŸã„å ´åˆã¯ã“ã“ã‚’ã‚¯ãƒªãƒƒã‚¯ã—ã¦ãã ã•ã„](privacy_ja.md)
 
 # Privacy Policy
-Effective Date: January 12th, 2019
-This Privacy Policy describes what data I collect, process and send.
+Effective Date: January 12th, 2019  
+This Privacy Policy describes what data I collect, process and send.  
 The publisher of this privacy policy is not a company, organization or team but individual. "I" means Soushi Atsumi.
 
 ## What data do you collect?

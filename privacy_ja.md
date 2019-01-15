@@ -1,18 +1,18 @@
-[Click here to see English Privacy Policy](privacy.md)
+﻿[Click here to see English Privacy Policy](privacy.md)
 
-# �l���ی���j
-���s: 2019�N1��12��
-���̌l���ی���j�͎����ǂ̂悤�ȏ������W�A���H�y�ё��M����̂���������܂��B
-���̌l���ی���j�̔��s�҂͉�ЁA�g�D�܂��̓`�[���ł͂Ȃ��A�l�ł��B�u���v�́uSoushi Atsumi�v���Ӗ����܂��B
+# 個人情報保護方針
+発行: 2019年1月12日  
+この個人情報保護方針は私がどのような情報を収集、加工及び送信するのかを説明します。  
+この個人情報保護方針の発行者は会社、組織またはチームではなく、個人です。「私」は「Soushi Atsumi」を意味します。  
 
-## �ǂ̂悤�ȃf�[�^�����W���܂����H
-���͔@���Ȃ�f�[�^�����W���܂���B
+## どのようなデータを収集しますか？
+私は如何なるデータも収集しません。
 
-## �ǂ̂悤�ȃf�[�^�����H���܂����H
-���͔@���Ȃ�f�[�^�����W���Ȃ��̂ŁA���H�����܂���B
+## どのようなデータを加工しますか？
+私は如何なるデータも収集しないので、加工もしません。
 
-## �ǂ̂悤�ȃf�[�^�𑗐M���܂����H
-���͔@���Ȃ�f�[�^�����W���Ȃ��̂ŁA���M�����܂���B
+## どのようなデータを送信しますか？
+私は如何なるデータも収集しないので、送信もしません。
 
-## �A��
-�����ӌ�������ꍇ�́A[���[��](mailto:pharaoh_development@yahoo.co.jp)��GitHub�ŘA�����Ă��������B
+## 連絡
+質問や意見がある場合は、[メール](mailto:pharaoh_development@yahoo.co.jp)かGitHubで連絡してください。
